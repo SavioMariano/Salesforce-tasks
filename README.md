@@ -19,11 +19,6 @@ Centralizar atividades e experimentos realizados na plataforma Salesforce, inclu
 - Visualforce (se aplicável)
 - Git & GitHub
 
-## 📁 Estrutura do Repositório
-
-Salesforce-tasks/ ├── README.md └── (em breve) pastas com tarefas e exemplos
-
-
 ## 🚧 Status do Projeto
 
 🟡 Em desenvolvimento inicial. Mais conteúdos serão adicionados em breve.
